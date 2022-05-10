@@ -1,7 +1,6 @@
 # Birthday Reminder
 
-Simple React App that demonstrates the use of useState and the  
-render of a list.
+Simple React App that demonstrates the use of useState and the rendering of a list.
 
 ## The idea of the design
 
